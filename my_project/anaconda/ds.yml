@@ -1,6 +1,7 @@
-name: base-ds-env
+name: dev-ml
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - numpy
   - matplotlib
