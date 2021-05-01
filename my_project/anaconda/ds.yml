@@ -1,0 +1,8 @@
+name: base-ds-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+
